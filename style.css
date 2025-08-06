@@ -1,0 +1,40 @@
+#changeColorBtn{
+    background-color: white;
+    color:rgb(72, 46, 3)
+}
+
+button:hover{
+    background-color:rgb(255, 196, 0);
+}
+
+header {
+    background-color: rgb(8, 8, 54); 
+    color: rgb(105, 127, 147);
+    padding: 10px;
+    text-align: center;
+
+}
+
+nav a {
+    color: rgb(8, 8, 54);
+    margin: 0 5px;
+    text-decoration: none;
+
+}
+
+nav {
+    background-color: rgb(105, 127, 147);
+    padding: 10px;
+    text-align: center;
+}
+
+div {
+    padding: 2rem;
+}
+ 
+.homepage {
+text-align: center;
+color: black;
+font-size: 25px;
+margin-bottom: 5px;
+}
